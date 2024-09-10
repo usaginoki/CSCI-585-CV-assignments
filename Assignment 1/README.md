@@ -1,0 +1,1 @@
+Familiarizing with OpenCV library.
