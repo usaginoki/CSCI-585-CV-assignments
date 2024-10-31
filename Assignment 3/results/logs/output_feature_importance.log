@@ -1,0 +1,66 @@
+[2024-10-31 12:19:49] Loading data...
+[2024-10-31 12:19:52] Data loaded
+[2024-10-31 12:19:52] Evaluating feature importance...
+[2024-10-31 12:19:52] Extracting features...
+[2024-10-31 12:23:06] Features extracted
+[2024-10-31 12:23:06] Scaling features...
+[2024-10-31 12:23:07] Features scaled
+[2024-10-31 12:23:07] Feature type: Log-Gabor
+[2024-10-31 12:23:07] Shuffling features... trial 0
+[2024-10-31 12:23:08] Features shuffled
+[2024-10-31 12:23:08] Accuracy: 0.9178470254957507
+[2024-10-31 12:23:08] Shuffling features... trial 1
+[2024-10-31 12:23:09] Features shuffled
+[2024-10-31 12:23:09] Accuracy: 0.9185337797235814
+[2024-10-31 12:23:09] Shuffling features... trial 2
+[2024-10-31 12:23:10] Features shuffled
+[2024-10-31 12:23:10] Accuracy: 0.9186196240020602
+[2024-10-31 12:23:10] Shuffling features... trial 3
+[2024-10-31 12:23:10] Features shuffled
+[2024-10-31 12:23:11] Accuracy: 0.9191346896729333
+[2024-10-31 12:23:11] Shuffling features... trial 4
+[2024-10-31 12:23:11] Features shuffled
+[2024-10-31 12:23:11] Accuracy: 0.9187054682805391
+[2024-10-31 12:23:11] Importance: 0.0014318825650270206
+[2024-10-31 12:23:11] Feature type: DTCWT
+[2024-10-31 12:23:11] Shuffling features... trial 0
+[2024-10-31 12:23:15] Features shuffled
+[2024-10-31 12:23:15] Accuracy: 0.6416859816293244
+[2024-10-31 12:23:15] Shuffling features... trial 1
+[2024-10-31 12:23:19] Features shuffled
+[2024-10-31 12:23:19] Accuracy: 0.6405700060090995
+[2024-10-31 12:23:19] Shuffling features... trial 2
+[2024-10-31 12:23:22] Features shuffled
+[2024-10-31 12:23:22] Accuracy: 0.641342604515409
+[2024-10-31 12:23:22] Shuffling features... trial 3
+[2024-10-31 12:23:26] Features shuffled
+[2024-10-31 12:23:26] Accuracy: 0.6330157095029616
+[2024-10-31 12:23:26] Shuffling features... trial 4
+[2024-10-31 12:23:30] Features shuffled
+[2024-10-31 12:23:30] Accuracy: 0.6379946776547343
+[2024-10-31 12:23:30] Importance: 0.28107820413769413
+[2024-10-31 12:23:30] Feature type: SIFT
+[2024-10-31 12:23:30] Shuffling features... trial 0
+[2024-10-31 12:23:34] Features shuffled
+[2024-10-31 12:23:34] Accuracy: 0.7628122585629667
+[2024-10-31 12:23:34] Shuffling features... trial 1
+[2024-10-31 12:23:39] Features shuffled
+[2024-10-31 12:23:39] Accuracy: 0.7639282341831917
+[2024-10-31 12:23:39] Shuffling features... trial 2
+[2024-10-31 12:23:43] Features shuffled
+[2024-10-31 12:23:44] Accuracy: 0.7644432998540647
+[2024-10-31 12:23:44] Shuffling features... trial 3
+[2024-10-31 12:23:48] Features shuffled
+[2024-10-31 12:23:48] Accuracy: 0.7646149884110224
+[2024-10-31 12:23:48] Shuffling features... trial 4
+[2024-10-31 12:23:53] Features shuffled
+[2024-10-31 12:23:53] Accuracy: 0.7568890033479269
+[2024-10-31 12:23:53] Importance: 0.1574624431281656
+[2024-10-31 12:23:53] Feature importance evaluation completed
+[2024-10-31 12:23:53] Drawing barchart...
+[2024-10-31 12:23:53] Barchart saved
+[2024-10-31 12:23:53] Drawing boxplot...
+[2024-10-31 12:23:53] Boxplot saved
+[2024-10-31 12:23:53] Saving importances...
+[2024-10-31 12:23:53] Importances saved
+[2024-10-31 12:23:53] Importances full saved

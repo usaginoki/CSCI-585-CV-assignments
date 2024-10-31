@@ -1,0 +1,17 @@
+2024-10-30 15:44:26.013761: Performing grid search with the preprocessed features
+2024-10-30 16:18:00.676028: Evaluating the classifier
+2024-10-30 16:18:00.681625: Best parameters: {'classifier__metric': 'euclidean', 'classifier__n_neighbors': 9, 'classifier__weights': 'distance', 'pca__n_components': 50}
+2024-10-30 16:18:00.684395: Best score: 0.7955318955318031
+2024-10-30 16:18:06.442184: Test accuracy: 0.7959481500557988
+2024-10-30 16:18:06.500373: Test F1 score: 0.7956377404795234
+              precision    recall  f1-score   support
+
+      female       0.82      0.75      0.79      5841
+        male       0.77      0.84      0.80      5808
+
+    accuracy                           0.80     11649
+   macro avg       0.80      0.80      0.80     11649
+weighted avg       0.80      0.80      0.80     11649
+
+2024-10-30 16:18:06.737341: [[4409 1432]
+ [ 945 4863]]

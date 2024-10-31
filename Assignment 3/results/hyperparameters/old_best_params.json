@@ -1,0 +1,1 @@
+{"classifier__metric": "euclidean", "classifier__n_neighbors": 9, "classifier__weights": "distance", "pca__n_components": 50}

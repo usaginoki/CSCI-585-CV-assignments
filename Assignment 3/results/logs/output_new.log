@@ -1,0 +1,21 @@
+2024-10-30 22:11:36.720204: Loading preprocessed images
+2024-10-30 22:11:52.505519: Preprocessed images loaded
+2024-10-30 22:11:52.508826: Extracting features
+2024-10-30 22:13:13.866613: Features extracted
+2024-10-30 22:13:13.871382: Performing grid search with the preprocessed features
+2024-10-30 22:19:11.816943: Evaluating the classifier
+2024-10-30 22:19:11.820865: Best parameters: {'classifier__alpha': 0.0001, 'classifier__learning_rate': 'optimal', 'classifier__penalty': 'l1', 'pca__n_components': 100}
+2024-10-30 22:19:11.824183: Best score: 0.8296779148552413
+2024-10-30 22:19:12.276432: Test accuracy: 0.8286548201562366
+2024-10-30 22:19:12.338937: Test F1 score: 0.8286484547308447
+              precision    recall  f1-score   support
+
+      female       0.84      0.82      0.83      5841
+        male       0.82      0.84      0.83      5808
+
+    accuracy                           0.83     11649
+   macro avg       0.83      0.83      0.83     11649
+weighted avg       0.83      0.83      0.83     11649
+
+[[4791 1050]
+ [ 946 4862]]
