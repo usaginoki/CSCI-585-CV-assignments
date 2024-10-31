@@ -16,4 +16,5 @@ Data must be structured as follows:
     - female
       - imgo.jpg
       - ...
+
 (i might upload the dataset to the gDrive)
