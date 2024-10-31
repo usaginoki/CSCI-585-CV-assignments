@@ -1,4 +1,5 @@
 Report (basically) in assignment3.py file - its all comments (don't ask why)
+
 Data must be structured as follows:
 - Dataset
   - Training
